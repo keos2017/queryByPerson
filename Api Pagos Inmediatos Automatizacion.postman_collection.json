@@ -179,7 +179,7 @@
 			]
 		},
 		{
-			"name": "queyByPerson",
+			"name": "queryByPerson",
 			"item": [
 				{
 					"name": "ExchangeKey",
